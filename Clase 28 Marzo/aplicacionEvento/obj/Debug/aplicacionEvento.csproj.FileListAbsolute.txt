@@ -1,0 +1,19 @@
+c:\users\lab3\documents\visual studio 2013\Projects\aplicacionEvento\aplicacionEvento\bin\Debug\aplicacionEvento.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\aplicacionEvento\aplicacionEvento\bin\Debug\aplicacionEvento.exe
+c:\users\lab3\documents\visual studio 2013\Projects\aplicacionEvento\aplicacionEvento\bin\Debug\aplicacionEvento.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\aplicacionEvento\aplicacionEvento\obj\Debug\aplicacionEvento.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\aplicacionEvento\aplicacionEvento\obj\Debug\aplicacionEvento.Form1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\aplicacionEvento\aplicacionEvento\obj\Debug\aplicacionEvento.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\aplicacionEvento\aplicacionEvento\obj\Debug\aplicacionEvento.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\aplicacionEvento\aplicacionEvento\obj\Debug\aplicacionEvento.exe
+c:\users\lab3\documents\visual studio 2013\Projects\aplicacionEvento\aplicacionEvento\obj\Debug\aplicacionEvento.pdb
+C:\Users\lizet\OneDrive\Documents\Lizzie\ING. SISTEMAS UTEC\Ciclo III 2018\PROG1-I\aplicacionEvento\aplicacionEvento\bin\Debug\aplicacionEvento.exe.config
+C:\Users\lizet\OneDrive\Documents\Lizzie\ING. SISTEMAS UTEC\Ciclo III 2018\PROG1-I\aplicacionEvento\aplicacionEvento\bin\Debug\aplicacionEvento.exe
+C:\Users\lizet\OneDrive\Documents\Lizzie\ING. SISTEMAS UTEC\Ciclo III 2018\PROG1-I\aplicacionEvento\aplicacionEvento\bin\Debug\aplicacionEvento.pdb
+C:\Users\lizet\OneDrive\Documents\Lizzie\ING. SISTEMAS UTEC\Ciclo III 2018\PROG1-I\aplicacionEvento\aplicacionEvento\obj\Debug\aplicacionEvento.csprojAssemblyReference.cache
+C:\Users\lizet\OneDrive\Documents\Lizzie\ING. SISTEMAS UTEC\Ciclo III 2018\PROG1-I\aplicacionEvento\aplicacionEvento\obj\Debug\aplicacionEvento.Form1.resources
+C:\Users\lizet\OneDrive\Documents\Lizzie\ING. SISTEMAS UTEC\Ciclo III 2018\PROG1-I\aplicacionEvento\aplicacionEvento\obj\Debug\aplicacionEvento.Properties.Resources.resources
+C:\Users\lizet\OneDrive\Documents\Lizzie\ING. SISTEMAS UTEC\Ciclo III 2018\PROG1-I\aplicacionEvento\aplicacionEvento\obj\Debug\aplicacionEvento.csproj.GenerateResource.cache
+C:\Users\lizet\OneDrive\Documents\Lizzie\ING. SISTEMAS UTEC\Ciclo III 2018\PROG1-I\aplicacionEvento\aplicacionEvento\obj\Debug\aplicacionEvento.csproj.CoreCompileInputs.cache
+C:\Users\lizet\OneDrive\Documents\Lizzie\ING. SISTEMAS UTEC\Ciclo III 2018\PROG1-I\aplicacionEvento\aplicacionEvento\obj\Debug\aplicacionEvento.exe
+C:\Users\lizet\OneDrive\Documents\Lizzie\ING. SISTEMAS UTEC\Ciclo III 2018\PROG1-I\aplicacionEvento\aplicacionEvento\obj\Debug\aplicacionEvento.pdb
